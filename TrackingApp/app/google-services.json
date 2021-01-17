@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "642993993211",
+    "project_id": "trackingapp-4958f",
+    "storage_bucket": "trackingapp-4958f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642993993211:android:70ccaf4a9b55854120475e",
+        "android_client_info": {
+          "package_name": "com.simplx.apps.trackingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642993993211-5njihbtoj4po1a75dsfdng8gkrf83ied.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.simplx.apps.trackingapp",
+            "certificate_hash": "c906f0935bfefae83ba874ad21208d0b513306e0"
+          }
+        },
+        {
+          "client_id": "642993993211-hmbc7uq7bc5qc6ve2mrsafrpv8jf61sa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2c5Yt0R5_YF1nBoglLQqYJezYeAUHLMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642993993211-hmbc7uq7bc5qc6ve2mrsafrpv8jf61sa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
